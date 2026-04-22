@@ -4,7 +4,7 @@ import axios from 'axios';
 
 
 
-const API = 'http://localhost:5000/api/todos';
+const API = 'https://mern-todo-backend.onrender.com/api/todos';
 
 function App() {
 
